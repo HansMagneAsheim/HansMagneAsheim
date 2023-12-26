@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Financial management and accounting
 
 📫 Ream me thorugh my student email:
-- hmasheim@stud.ntnu.no 
+hmasheim@stud.ntnu.no 
 
 I have imported some projects from GitLab from my time as computer engineering student. 
 
