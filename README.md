@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am @HansMagneAsheim
 
 <!--
 **HansMagneAsheim/HansMagneAsheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning
+- Machine Learning
+- C++
+- Financial management and accounting
+📫 Ream me thorugh my student email:
+hmasheim@stud.ntnu.no 
+
+I have imported some projects from GitLab from my time as computer engineering student. 
+
+Feel free to check them out!
